@@ -18,6 +18,7 @@ ONE AT A TIME.MORE EFFICIENT AND LESS POWER IS CONSUMED(USED IN MOBILE PHONES).e
   
 
 
+![alt text](1.png)
 
 
 
@@ -120,6 +121,7 @@ Uh: IP address port number joined to access Google(ip)ftp/web page (port)
   
 
 
+![alt text](2.png)
 
 
 
@@ -183,6 +185,7 @@ Endpoint of communication-source/destination of data transferred over a network
 
 
 
+![alt text](3.png)
 
 
 
@@ -234,7 +237,8 @@ Data transfer from eastern to southern states by either terrestrial cables,satel
 Gmail,google,youtube,gaming use underwater cables to connect users(clients) to servers across the globe.underwater cables have many backup routes and regular maintenance incase of corrosion;/other damage.they also have extra additional routes to route network traffic.
 
 
-  
+![alt text](4.png)
+
 
 Cloud computing- cloud (building) contains large number of servers to stores all data of the client computers. High reliability of cloud provider,it also has backed up data.any loss of data cloud provider responsible .eg-aws.ibm.alibaba for netflix,online games,gmail.
 * Infrastructure as a Service (IaaS) : Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine (GCE), IBM Cloud.users can rent or lease virtualized computing resources(netflix series resources and related watch all data) instead of investing in and maintaining physical hardware.
@@ -265,7 +269,9 @@ Blockchain-in a bitcoin this block contains data of transactions sender receiver
 The block also contains hash of previous block
   
 
-  
+  ![alt text](5.png)
+![alt text](6.png)
+
 
 Blockchain uses the three principles of cryptography, decentralization, and consensus to create a highly secure underlying software system
 decentralization=everyone has same amount of authority/ownership
@@ -301,7 +307,11 @@ Centralised Computing - System where all processing and data storage is handled 
 47. proxmox- Proxmox VE an open-source server management platform for enterprise virtualization(use of virtualization technologies in large scale by big organisations allowing multiple os to run on a machine) orchestrates the allocation and management of resources to create a well-organized and efficient virtualized environment. It ensures storage networking backups of vms and containers.
 48. XEN - Xen is a free and open-source hypervisor that allows multiple operating systems to run on the same hardware at the same time. Xen inserts a virtualization layer between the system hardware and the virtual machines. Xen is a type-1 hypervisor, which means it can be installed directly on hardware without the need for a host operating system. 
 49. LXC stands for Linux Containers. It's an open-source container platform that allows users to create and run multiple isolated Linux virtual environments (VEs) on a single control host. LXC uses a single Linux kernel to run these isolated systems, or containers.
-50.   51. Web3.0 Decentralisation - Web3.0 is a decentralized version of the internet that allows users to own their own data. It's also known as the decentralized web or the third generation of the internet.eg-blovkchains,brave browser
+50. ![alt text](7.png)
+
+
+
+51. Web3.0 Decentralisation - Web3.0 is a decentralized version of the internet that allows users to own their own data. It's also known as the decentralized web or the third generation of the internet.eg-blovkchains,brave browser
 52. Digital Identities - Digital identities allow people to identify themselves and facilitate transactions in the digital world. They can be set up once and reused whenever someone is asked to prove their identity. 
 53. VectorDB - VectorDB is a Python package that stores and retrieves text using chunking, embedding, and vector search techniques. It's designed for use cases where low latency is essential.uses hci
 54. hci-s a software-defined IT infrastructure that combines servers and storage into a single cluster.Saving, searching, and managing textual data with associated metadataManaging, querying, and retrieving high-dimensional vector data efficientlyWorking with vector data just like how you work with regular Python objectsA comprehensive suite of CRUD (Create, Read, Update, Delete) operations Robust scalability options
@@ -350,6 +360,9 @@ Development refers to the process of creating and building a software applicatio
 Involves coding,configure-put themes,fonts,language,connecting databases,other customisationsetc,.Version Control: Developers often use version control systems to track changes to the codebase,Documentation: Documentation is created to provide insights into the codebase, 
 71.biggest Q)how data carried by light(an em wave).its done by shift keying.basically changing the frequency,amplitudeor phase value of wave to represent 0 or 1.  
 Eg-radio am or fm. Amplitude modifier or frequency modifier
+
+![alt text](8.png)
+
 72. wifi=wireless fidelity(more of a brand name)                                                          while ethernet is wired(cat6,5) connected between a router and the device(switch maybe involved to interconnect) and its usually faster and obviously wired so more safer. Hence ethernet better for fixed devices(pcs)
 73. Q)pc doesnt connect to mobile hotspot bcz it has an ethernet port and wire connected to router. Since its wired(NOT WIRELESS)no nic required.
 ##ethernet port=rj45
@@ -388,6 +401,7 @@ Types of OS
    * Apache Mesos- Mesos brings together the existing resources of the machines/nodes in a cluster into a single pool from which a variety of workloads may utillize. Also known as node abstraction, this removes the need to allocate specific machines for different workloads.
    * Amazon ECS-Amazon Elastic Container Service (Amazon ECS) is a fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications.
 89.   
+![alt text](9.png)
 
 
  user space is essentially where user-level applications and processes operate, handling tasks like word processing,data processing, web browsing, and other everyday activities.but cant access kernel space things like memory management data storage and processing,changing system configurations(network configs like checking and securing it then only allow it to run).
@@ -616,6 +630,8 @@ They also have protocol buffers for language agnostic encoding of data and instr
 
 
 whatsapp-  
+![alt text](10.png)
+
 
 
 It uses protocols like-
@@ -656,7 +672,8 @@ Uses end-end encryption where message can only be decrypted by the receiver.a sp
 Netflix-
 
 
-  
+  ![alt text](11.png)
+
 
 
 
@@ -677,6 +694,7 @@ Netflix offers a unified API aggregation layer at the edge(uses edge computing)T
 
 
 
+![alt text](12.png)
 
 
 
@@ -729,6 +747,9 @@ by using drivers' phones as a source of trip data and sending encrypted state di
 
 CHAT GPT-
 
+
+
+![alt text](13.png)
 
 Uses llm(large language model).
 
